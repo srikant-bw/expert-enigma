@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.073c9b0a.css",
-    "main.js": "/static/js/main.82c621da.js",
-    "static/js/787.13987478.chunk.js": "/static/js/787.13987478.chunk.js",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/index.html",
-    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
-    "main.82c621da.js.map": "/static/js/main.82c621da.js.map",
-    "787.13987478.chunk.js.map": "/static/js/787.13987478.chunk.js.map"
+    "main.css": "/expert-enigma/static/css/main.073c9b0a.css",
+    "main.js": "/expert-enigma/static/js/main.9f2851c9.js",
+    "static/js/787.13987478.chunk.js": "/expert-enigma/static/js/787.13987478.chunk.js",
+    "static/media/logo.svg": "/expert-enigma/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/expert-enigma/index.html",
+    "main.073c9b0a.css.map": "/expert-enigma/static/css/main.073c9b0a.css.map",
+    "main.9f2851c9.js.map": "/expert-enigma/static/js/main.9f2851c9.js.map",
+    "787.13987478.chunk.js.map": "/expert-enigma/static/js/787.13987478.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.82c621da.js"
+    "static/js/main.9f2851c9.js"
   ]
 }
